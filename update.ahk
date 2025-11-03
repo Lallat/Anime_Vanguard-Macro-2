@@ -1,5 +1,3 @@
-Sleep 5000
-
 class GithubClass {
     link := ''
 
@@ -13,14 +11,17 @@ class GithubClass {
 }
 
 macro_path := A_ScriptDir '\Salmon_AV.exe'
+try FileDelete(macro_path)
 
+Sleep 5000
 
+try FileDelete(macro_path)
 MsgBox 'Click ok to start updating / downloading'
 
 try {
     g := GithubClass('SalmonDXH', 'Anime_Vanguard-Macro-2')
 
-    try FileDelete(macro_path)
+
     Download(g.GetLatestVersionURL('Salmon_AV.exe'), macro_path)
 } catch Error as e {
     MsgBox e.Message
