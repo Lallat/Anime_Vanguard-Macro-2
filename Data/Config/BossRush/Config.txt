@@ -1,3 +1,0 @@
-Team=Team 1
-Nightmare=0
-Webhook=0
