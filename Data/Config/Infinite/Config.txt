@@ -1,3 +1,0 @@
-Team=Team 1
-Map=Planet Namek
-Webhook=0
