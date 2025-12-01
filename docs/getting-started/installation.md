@@ -1,0 +1,43 @@
+# Salmon's Macro Installation Guide
+
+Easy and fast guide for installation stuff
+
+## Table of Contents
+
+1. [AutoHotkey v2](#autohotkey-v2)
+2. [Macro](#macro)
+---
+
+## AutoHotkey v2
+this macro use **AutoHotkey v2** as main programming language so you need to install this to start the macro
+- Go to **[Autohotkey website](https://www.autohotkey.com/)** and download **version 2** *([click here to download](https://www.autohotkey.com/download/ahk-v2.exe))*
+- After downloading the installer, run the installer (.exe) to start installing (mostly it will be in **Download** folder)
+  
+## Macro
+The macro is compiled into **Machine Language** that only machine can read it so **Window Security** or any **anti-virus app** would detect it as a **Virus**, **Malware** or **Dangerous** program but it is a false positive warning.
+Here is some reason why it got detected as a virus:
+- **Keyboard access:** Macro use your **hotkey** (keyboard and mouse) to click and move around the game.
+- **Microsoft Librabry:** Macro use **Microsoft**'s feature like **OCR** (Image detection), **Screenshot**
+- **Http request:** Macro will send **Result**, **Activity logs** via **Discord Webhook**. It also need to ping a **Website** *(I use google to ping)* if the **Internet** is available or not so it can start reconnect.
+- **Application start:** Reconnection use **Deeplink** methods
+
+### Download Macro
+- Turn off **Anti-Virus** *(Window Security, ...)* 
+- Go to **[Github Page](https://github.com/SalmonDXH/Anime_Vanguard-Macro-2)** and click on **Green Code Button**
+- It would show **Download Zip** Button then click on it to start downloading *([click here to download](https://github.com/SalmonDXH/Anime_Vanguard-Macro-2/archive/refs/heads/main.zip))*
+
+![Github Installation Guide](../../Assets/installation/github_installation_guide.png)
+
+### Setup Exclusions
+To make **Window Security** not deleting the Macro file, we need to create the **Exclusion** folder *(where Window Security would ignore them)* and put our **Macro** file in there
+- Press `Window + I` to open **Settings**
+- Go to **Privacy & Security** and go to **Window Security**
+- Click **Virus & Threat Protection**
+
+---
+<div align="center">
+    <p align="center">
+        <h3><strong>Salmon's Projects</strong></h3>
+        <a href="https://www.discord.gg/salmon"><strong>Discord Server</strong></a> 💬 | <a href="https://salmonsproject.site/"><strong>Website</strong></a> 🌐
+    </p>
+</div>
