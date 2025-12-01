@@ -4,7 +4,7 @@
     <h3 align="center">Anime Vanguard Macro</h3>
     <p align="center">
         A reliable tool to let you grind av for days automatically
-        <br/>  <a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
+        <br/>  <a href="https://www.discord.gg/salmon"><strong>Discord Server</strong></a> 💬| <a href="https://salmonsproject.site/"><strong>Website</strong></a> 🌐
     </p>
 </div>
 
@@ -48,7 +48,7 @@
 <div align="center">
     <p align="center">
         <h3><strong>Salmon's Projects</strong></h3>
-        <a href="https://www.discord.gg/salmon"><strong>Discord Server 💬</strong></a> | <a href="https://salmonsproject.site/"><strong>Website 🌐</strong></a>
+        <a href="https://www.discord.gg/salmon"><strong>Discord Server</strong></a> 💬 | <a href="https://salmonsproject.site/"><strong>Website</strong></a> 🌐
     </p>
 </div>
 
