@@ -32,7 +32,11 @@ Here is some reason why it got detected as a virus:
 To make **Window Security** not deleting the Macro file, we need to create the **Exclusion** folder *(where Window Security would ignore them)* and put our **Macro** file in there
 - Press `Window + I` to open **Settings**
 - Go to **Privacy & Security** and go to **Window Security**
-- Click **Virus & Threat Protection**
+- Click **Virus & Threat Protection** and scroll to **Exclusions**
+- Click **Add or Remove exclusions** and click **Folder**
+- Create or choose a folder *(e.g., `C:\Macros`)*
+- Add it as an **Exclusion**
+- Then move the `.zip` you dowload earlier then put it into **Exclusion** folder
 
 ---
 <div align="center">
